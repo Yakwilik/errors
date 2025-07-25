@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f1c139a2-4825-4d1f-81b2-37e73fc24bbe" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/errors.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/errors_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/teststub/lib/lib.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/teststub/lib/stub_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/teststub/stub_dependency.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +51,7 @@
     "RunOnceActivity.go.formatter.settings.were.checked": "true",
     "RunOnceActivity.go.migrated.go.modules.settings": "true",
     "RunOnceActivity.go.modules.go.list.on.any.changes.was.set": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "feature",
     "go.import.settings.migrated": "true",
     "go.sdk.automatically.set": "true",
     "junie.onboarding.icon.badge.shown": "true",
